@@ -1,0 +1,41 @@
+{
+    "base": {
+        "secondary": [
+            "#6600cc",
+            "#ff00ff",
+            "#ff9bff",
+            "#ffdeff"
+        ],
+        "primary": [
+            "#f44800",
+            "#fb8b00",
+            "#f0a513",
+            "#f7d083"
+        ],
+        "secondaryAlt": [
+            "#ff00ff",
+            "#6600cc",
+            "#ffdeff",
+            "#ff9bff"
+        ],
+        "primaryAlt": [
+            "#fb8b00",
+            "#f44800",
+            "#f7d083",
+            "#f0a513"
+        ]
+    },
+    "windows": {
+        "day": "#b3defd",
+        "nightRandom": "#ffff99",
+        "nightLight": "#ffff91",
+        "nightDark": "#3A4770",
+        "nightOnly": "#ffff92"
+    },
+    "neon": {
+        "on": "#98fc66",
+        "off": "#658A53",
+        "blink": "#ccff99"
+    },
+
+}
